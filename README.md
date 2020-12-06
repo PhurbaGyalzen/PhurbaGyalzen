@@ -1,4 +1,4 @@
-### Hi👋 Phurba Here!!!
+### Hi there👋 Phurba Here!!!
 
 <!--
 **PhurbaGyalzen/PhurbaGyalzen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently learinging programming.
+
+- 🔭 I’m currently working on Django.
+- 🌱 I’m currently learning JavaScript, Java, Python,HTML, CSS,and more.
+- 👯 I’m looking to collaborate on open source projects.
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=PhurbaGyalzen&show_icons=true&theme=tokyonight&line_height=48" />
+  <img width="37.2%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhurbaGyalzen&count_private=true&theme=tokyonight">
+</p>
