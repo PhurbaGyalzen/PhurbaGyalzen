@@ -15,9 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on Django.
-- 🌱 I’m currently learning JavaScript, Java, Python,HTML, CSS,and more.
-- 👯 I’m looking to collaborate on open source projects.
+- 🔭 I’m currently working on Flutter and Django.
 <p align="left">
 <a href="https://github.com/PhurbaGyalzen?tab=followers">
     <img src="https://img.shields.io/github/followers/PhurbaGyalzen?label=Git%20hub&logo=Github&style=for-the-badge" />
