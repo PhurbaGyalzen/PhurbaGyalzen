@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on Flutter and Django.
+- 🔭 I’m a Backend Developer.
 <p align="left">
 <a href="https://github.com/PhurbaGyalzen?tab=followers">
     <img src="https://img.shields.io/github/followers/PhurbaGyalzen?label=Git%20hub&logo=Github&style=for-the-badge" />
